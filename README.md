@@ -1,6 +1,6 @@
 # craftprobe-releases
 
-Hello! Poplatvia here. Make sure you read the laws in your country about scanning networks before using this software. You can read the real, boring license below.
+Hello! Poplatvia here. Make sure you read the laws in your country about scanning networks before using this software. You can read the real, boring license below. You'll have to read and accept this license again inside the CraftProbe installer. Safe scanning!
 
 ---
 
